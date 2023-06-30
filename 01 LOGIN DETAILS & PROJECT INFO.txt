@@ -1,0 +1,12 @@
+**Database Name: vehiclebookings**
+
+**Developed by Team Three**
+
+**Recommended PHP Version 5.6 & up**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: 1234
+
